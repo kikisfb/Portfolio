@@ -1,5 +1,4 @@
 import { Briefcase, Code, User } from "lucide-react";
-import { cn } from "../lib/utils";
 export const AboutSection=() =>
 {
     return(
