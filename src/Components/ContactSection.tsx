@@ -1,5 +1,4 @@
-import { Github, Instagram, Linkedin, Mail,MapPin,Phone, Send, Twitch } from "lucide-react"
-import { cn } from "../lib/utils"
+import { Github, Instagram, Linkedin, Mail,MapPin,Phone, Twitch } from "lucide-react"
 
 
 export const ContactSection = ()=>{
