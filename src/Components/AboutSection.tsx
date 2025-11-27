@@ -19,10 +19,7 @@ export const AboutSection=() =>
                         I am passionate about creating solutions to complex problems, and I'm constantly learning 
                         new technologies and techniques to stay at the forefront of the ever-evolving web landscape.
                     </p>
-                    <img   className="rounded-full mx-auto w-58 h-58 sm:w-58 sm:h-58 md:w-68 md:h-68 lg:w-86 lg:h-86 object-cover pt-4"
-                     src="../../Kiana_Pic.jpg" 
-                    alt="Kiana Safavi Baygi" />
-
+                    <img src="/projects/Kiana_Pic.jpg" alt="Kiana Safavi Baygi" className="rounded-full mx-auto w-58 h-58 sm:w-58 sm:h-58 md:w-68 md:h-68 lg:w-86 lg:h-86 object-cover pt-4"></img>
                     <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
                         <a className="cosmic-button" href="#contact">Get In Touch</a>
                         <a href="/Kiana_Safavi_Baygi_Resume.pdf" download 
