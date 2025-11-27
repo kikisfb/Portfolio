@@ -22,7 +22,7 @@ export const AboutSection=() =>
                     <img src="/projects/Kiana_Pic.jpg" alt="Kiana Safavi Baygi" className="rounded-full mx-auto w-58 h-58 sm:w-58 sm:h-58 md:w-68 md:h-68 lg:w-86 lg:h-86 object-cover pt-4"></img>
                     <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
                         <a className="cosmic-button" href="#contact">Get In Touch</a>
-                        <a href="/Kiana_Safavi_Baygi_Resume.pdf" download 
+                        <a href="/projects/Kiana_Safavi_Baygi_Resume.pdf" download 
                         className={cn("px-6 py-2 rounded-full border border-primary text-primary", 
                             "hover:bg-primary/10 transition-colors duration-300")}>
                         Download Resume
